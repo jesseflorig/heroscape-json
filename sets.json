@@ -1,0 +1,204 @@
+[
+  {
+    "id":"ms1",
+    "name":"Rise of the Valkyrie",
+    "alternateName": "Master Set 1",
+    "type": "master",
+    "released": ""
+  },
+  {
+    "id":"ms2",
+    "name":"Swarm of the Marro",
+    "alternateName": "Master Set 2",
+    "type": "master",
+    "released": ""
+  },
+  {
+    "id":"ms3",
+    "name":"Battle of the Underdark",
+    "alternateName": "Master Set 1",
+    "type": "master",
+    "released": ""
+  },
+  {
+    "id":"marvel",
+    "name":"Markvel: The Conflict Begins",
+    "type": "expansion",
+    "released": ""
+  },
+  {
+    "id":"e1",
+    "name":"Orm's Return",
+    "type": "expansion",
+    "released": ""
+  },
+  {
+    "id":"e2",
+    "name":"Raknar's Vision",
+    "type": "expansion",
+    "released": ""
+  },
+  {
+    "id":"e3",
+    "name":"Aquilla's Alliance",
+    "type": "expansion",
+    "released": ""
+  },
+  {
+    "id":"e4",
+    "name":"Road to the Forgotten Forest",
+    "type": "expansion",
+    "released": ""
+  },
+  {
+    "id":"e5",
+    "name":"Thaelenk Tundra",
+    "type": "expansion",
+    "released": ""
+  },
+  {
+    "id":"e6",
+    "name":"Volcarren Wasteland",
+    "type": "expansion",
+    "released": ""
+  },
+  {
+    "id":"e7",
+    "name":"Ticalla Jungle",
+    "type": "expansion",
+    "released": ""
+  },
+  {
+    "id":"e8",
+    "name":"Crest's of the Valkyrie",
+    "type": "expansion",
+    "released": ""
+  },
+  {
+    "id":"w1",
+    "name":"Malliddon's Prophecy",
+    "alternateName": "Wave 1",
+    "type": "wave",
+    "released": ""
+  },
+  {
+    "id":"w2",
+    "name":"Utgar's Rage",
+    "alternateName": "Wave 2",
+    "type": "wave",
+    "released": ""
+  },
+  {
+    "id":"w3",
+    "name":"Jandar's Oath",
+    "alternateName": "Wave 3",
+    "type": "wave",
+    "released": ""
+  },
+  {
+    "id":"w4",
+    "name":"Zanafor's Discovery",
+    "alternateName": "Wave 4",
+    "type": "wave",
+    "released": ""
+  },
+  {
+    "id":"w5",
+    "name":"Thora's Vengance",
+    "alternateName": "Wave 5",
+    "type": "wave",
+    "released": ""
+  },
+  {
+    "id":"w6",
+    "name":"Dawn of Darkness",
+    "alternateName": "Wave 6",
+    "type": "wave",
+    "released": ""
+  },
+  {
+    "id":"w7",
+    "name":"Fields of Valor",
+    "alternateName": "Wave 7",
+    "type": "wave",
+    "released": ""
+  },
+  {
+    "id":"w8",
+    "name":"Defenders of Kinsland",
+    "alternateName": "Wave 8",
+    "type": "wave",
+    "released": ""
+  },
+  {
+    "id":"w9",
+    "name":"Blackmoon's Siege",
+    "alternateName": "Wave 9",
+    "type": "wave",
+    "released": ""
+  },
+  {
+    "id":"w10",
+    "name":"Valkrill's Gambit",
+    "alternateName": "Wave 10",
+    "type": "wave",
+    "released": ""
+  },
+  {
+    "id":"w11",
+    "name":"Champions of the Forgotten Realms",
+    "alternateName": "Wave D1",
+    "type": "wave",
+    "released": ""
+  },
+  {
+    "id":"w12",
+    "name":"Warriors of Eberron",
+    "alternateName": "Wave D2",
+    "type": "wave",
+    "released": ""
+  },
+  {
+    "id":"w13",
+    "name":"Moltenclaw's Invasion",
+    "alternateName": "Wave D3",
+    "type": "wave",
+    "released": ""
+  },
+  {
+    "id":"p1",
+    "name":"The Master's Arrival",
+    "type": "promo",
+    "released": ""
+  },
+  {
+    "id":"p2",
+    "name":"Skahen's Rescue",
+    "type": "promo",
+    "released": ""
+  },
+  {
+    "id":"p3",
+    "name":"Sir Hawthorne's Arrival",
+    "type": "promo",
+    "released": ""
+  },
+  {
+    "id":"p4",
+    "name":"Nerak's Return",
+    "type": "promo",
+    "released": ""
+  },
+  {
+    "id":"p5",
+    "name":"Viper's Vengeance",
+    "type": "promo",
+    "released": ""
+  },
+  {
+    "id":"p6",
+    "name":"Forever Valiant",
+    "type": "promo",
+    "released": ""
+  }
+]

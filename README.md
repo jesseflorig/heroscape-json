@@ -1,7 +1,8 @@
 # [WIP] HeroScape JSON
 
-## Units
+Heroscape data in JSON format for use in Heroscape related apps.
 
+## Units
 ```
 {
   name        \\ Unit name
@@ -20,7 +21,7 @@
   points      \\ Unit poiint value
   figures     \\ Number of figures
   hexes       \\ Number of hexes each figure takes up
-  wave        \\ Wave the unit was released
+  set         \\ Set the unit was released
   abilities: [
     {
       name          \\ Ability name
@@ -30,8 +31,39 @@
 }
 ```
 
+## Sets
+```
+{
+  ids           \\ Set ID
+  name          \\ Set name
+  alternateName \\ Alternate set name
+  type          \\ Set type
+  universe      \\ Set universe
+  released      \\ Date of release
+}
+```
+
+## Generals
+```
+{
+  ids        \\ General ID
+  name       \\ General name
+  alignment  \\ Army alignment
+  set        \\ Set the general was released
+}
+```
+
 ## Todo
 
- - [ ] Add `wave` JSON
- - [ ] Add `general` JSON
+ - [x] Add `units` JSON
+ - [x] Add `sets` JSON
+ - [x] Add `generals` JSON
+ - [ ] Add `packs` JSON
+ - [ ] Add `terrain` JSON
+ - [ ] Add `glyphs` JSON
  - [ ] Generate `unit` ids
+ - [ ] Update `unit` set to match `set` name
+ - [ ] Add `unit` spaces (`figures * hexes`)
+ - [ ] Add `unit` species
+ - [ ] Add `unit` planet
+ - [ ] Add `unit` size
